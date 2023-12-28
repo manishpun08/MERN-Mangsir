@@ -7,3 +7,6 @@
 
 // let lastName = "magar";
 // console.log("lastName");
+
+console.log(hello);
+console.log(hi);
